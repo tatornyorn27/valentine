@@ -173,7 +173,7 @@ body{
     height: 12px;
     border-radius: 75%;
     background-color: rgba(0, 0, 0, 0.1);
-    top: 1000px; 
+    top: 700px; 
     animation: scale 3s linear infinite;
 }
 @keyframes scale {
